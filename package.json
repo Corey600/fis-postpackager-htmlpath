@@ -1,0 +1,45 @@
+{
+  "name": "fis-postpackager-htmlpath",
+  "version": "0.0.11",
+  "description": "用于补充Fis工具对html页面中a标签的href属性的处理",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "corey600@github"
+  },
+  "keywords": [
+    "fis",
+    "html",
+    "path"
+  ],
+  "author": {
+    "name": "corey600"
+  },
+  "license": "",
+  "_npmVersion": "2.7.4",
+  "_npmUser": {
+    "name": "corey600",
+    "email": "fcx600@163.com"
+  },
+  "_id": "fis-postpackager-htmlpath@0.0.11",
+  "_shasum": "d5da83692eba2ea3d8ff802ef1c8c5fd64570bfe",
+  "_from": "fis-postpackager-htmlpath@latest",
+  "_nodeVersion": "0.12.2",
+  "dist": {
+    "shasum": "d5da83692eba2ea3d8ff802ef1c8c5fd64570bfe",
+    "size": 1636,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/fis-postpackager-htmlpath/download/fis-postpackager-htmlpath-0.0.11.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "corey600",
+      "email": "fcx600@163.com"
+    }
+  ],
+  "directories": {},
+  "publish_time": 1432293280524,
+  "_cnpm_publish_time": 1432293280524,
+  "_resolved": "https://registry.npm.taobao.org/fis-postpackager-htmlpath/download/fis-postpackager-htmlpath-0.0.11.tgz"
+}
